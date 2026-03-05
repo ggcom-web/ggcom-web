@@ -5,5 +5,6 @@
 - 💞️ I’m looking to collaborate on complex WordPress projects, custom plugin development, and web performance optimization.
 - 📫 How to reach me:  
   - Email: info@gaelgerard.com  
-  - Website: [www.gaelgerard.com](https://www.gaelgerard.com)  
-  - LinkedIn: [linkedin.com/in/freelance-nantes-st-nazaire](https://www.linkedin.com/in/freelance-nantes-st-nazaire/)
+  - Website: [www.gaelgerard.com](https://www.gaelgerard.com)
+  - Blog: [blog.gaelgerard.com](https://blog.gaelgerard.com)  
+  - LinkedIn: [linkedin.com/in/freelance-nantes-st-nazaire]([https://www.linkedin.com/in/gael-gerard](https://www.linkedin.com/in/gael-gerard/)
