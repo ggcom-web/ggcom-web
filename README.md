@@ -7,4 +7,4 @@
   - Email: info@gaelgerard.com  
   - Website: [www.gaelgerard.com](https://www.gaelgerard.com)
   - Blog: [blog.gaelgerard.com](https://blog.gaelgerard.com)  
-  - LinkedIn: [linkedin.com/in/freelance-nantes-st-nazaire]([https://www.linkedin.com/in/gael-gerard](https://www.linkedin.com/in/gael-gerard/)
+  - LinkedIn: [linkedin.com/in/gael-gerard](https://www.linkedin.com/in/gael-gerard/)
